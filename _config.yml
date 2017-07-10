@@ -1,11 +1,11 @@
 # Site settings
-title: start.ffhh
-description:      "Frei von Registrierung, Erfassung von persönlichen Informationen oder zeitlicher Limitierung. Freifunk Hamburg ist ein Netz, an dem jeder teilnehmen kann."
+title: start.ffbsee
+description:      "Frei von Registrierung, Erfassung von persönlichen Informationen oder zeitlicher Limitierung. Freifunk Bodensee ist ein Netz, an dem jeder teilnehmen kann."
 baseurl: ""
-organisation:     Freifunk Hamburg
-twitter_username: FreifunkHH
-github_username:  freifunkhamburg/start-ffhh
-about_page:       https://hamburg.freifunk.net/
+organisation:     Freifunk Bodensee
+twitter_username: FFBodensee
+github_username:  ffbsee/start-ffbsee
+about_page:       https://ffbsee.de/
 
 # Build settings
 markdown: kramdown

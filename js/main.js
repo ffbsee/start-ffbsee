@@ -1,5 +1,5 @@
 var rss = [
-    'hamburg.freifunk.net',
+    'ffbsee.de',
 ];
 var MAX_RSS = 3;
 

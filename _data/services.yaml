@@ -1,4 +1,4 @@
-# .ffhh:
+# .ffbsee
 # network: intern
 # .com:
 # network: public
@@ -10,40 +10,25 @@
 - title:     Seafile
   text:      Seafile ist ein Ersatz für Dropbox, gehostet im Richtfunk-Netz
   icon:      cloud-download
-  url:       https://cloud.hamburg.freifunk.net
+  url:       https://cloud.ffbsee.de
   network:   public
-- title:     schnackr
-  text:      schnackr ist ein freier, offener Twitter-Ersatz basierend auf GNUSocial.
-  icon:      comments-o
-  url:       https://schnackr.hamburg.freifunk.net
-  network:   public
-#- title:    Blogs
-#  text:     Worpress im Freifunk-Netz
-#  icon:     quote-right
-#  url:      http://wp.ffhh/
-#  network:  intern
-#- title:    Radio
-#  text:     Live Stream von freier Musik
-#  icon:     file-audio-o
-#  url:      http://radio.ffhh/
-#  network:  intern
+#- title:     schnackr
+#  text:      schnackr ist ein freier, offener Twitter-Ersatz basierend auf GNUSocial.
+#  icon:      comments-o
+#  url:       https://schnackr.hamburg.freifunk.net
+#  network:   public
 - title:    Wiki
   text:     Freifunk hinter der Bühne. Unsere Wissenssammlung
   icon:     group
-  url:      https://wiki.freifunk.net/Freifunk_Hamburg
+  url:      https://ffbsee.de
   network:  public
 - title:    Verbindung
   text:     Zeigt Informationen über den Router, mit dem du gerade verbunden bist
   icon:     wifi
-  url:      http://knoten.ffhh/
+  url:      http://nextnode.ffbsee/
   network:  intern
-#- title:    Pastebin
-#  text:     Texte schnell und unkompliziert teilen
-#  icon:     file
-#  url:      http://paste.ffhh
-#  network:  intern
-- title:    Medien
-  text:     Hier sammeln wir Grafiken, Flugblätter und vieles mehr. Schaut euch um
+- title:    Github Repo
+  text:     Hier sammeln wir unseren Programmiercode für fast alles und außerdem Grafiken, Flugblätter und vieles mehr. Schaut euch um
   icon:     folder-open
-  url:      http://media.services.ffhh/
-  network:  intern
+  url:      http://github.com/ffbsee
+  network:  public
